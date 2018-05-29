@@ -49,7 +49,7 @@ public class WxMpUser implements Serializable {
    * ADD_SCENE_PAID 支付后关注，
    * ADD_SCENE_OTHERS 其他
    */
-  private String subscribeScene
+  private String subscribeScene;
   
   /**
    * https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&announce_id=11513156443eZYea&version=&lang=zh_CN
